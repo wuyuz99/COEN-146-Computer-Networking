@@ -1,0 +1,5 @@
+This lab include a alglorithm in router.
+It has three threads:
+  -read from keyboard for updates in distance vector
+  -recieve message from other router
+  -update the shortes distance table
