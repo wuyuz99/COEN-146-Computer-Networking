@@ -1,1 +1,0 @@
-This lab transfer a file via TCP connection.
