@@ -1,1 +1,0 @@
-This lab include a file transfer using stop and wait alglorithm for an unreliable channel, with loss
