@@ -1,7 +1,6 @@
-# COEN146
-Computer Networking 
-This is the lab and final project I have written in this class.
+# COEN-146-Computer-Networking 
 
+This is the lab and final project I have written in this class.
 
 Lab1: copies a file on local machine.
 Lab2: transfer a file to another machine via TCP.
